@@ -24,4 +24,6 @@ I think that is all. You don't need to do anything about the
 existing Admin menu - just toggle it closed and use whichever
 suits you.
 
+The module makes use of jquery smartmenus for bootstrap 4.
+
 Feedback welcome!
